@@ -1,0 +1,96 @@
+
+.body {
+    font-family: 'Roboto', sans-serif;
+}
+a:hover {
+    color:#ff7f50; /* Tomato color */
+}
+
+
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+.intro{
+
+    background-color: #8F9779;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+    
+    
+
+}
+.education{
+
+    background-color: #a9ba9d;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+    
+    
+}
+
+.interests{
+    background-color: #a8c090;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+    
+    
+}
+.skills{
+
+    background-color: #008080;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+   
+}
+.vision{
+
+    background-color: #b2d3c2;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+}
+
+.inspiration{
+    background-color: #8F9779;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+
+}
+img, section {
+    border-radius: 10px;
+}
+section {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.memory{
+
+    background: #000080;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
